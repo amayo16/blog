@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Andrew&#39;s Blog</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Andrew&#39;s Blog</description>
+    <title>Subtraction on Andrew&#39;s Blog</title>
+    <link>/tags/subtraction/</link>
+    <description>Recent content in Subtraction on Andrew&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
     <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/subtraction/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Math</title>
-      <link>/post/math/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/math/</guid>
-      <description>Lets do some addition:
-x &amp;lt;- 2y &amp;lt;- 3x + 7## [1] 9</description>
-    </item>
     
     <item>
       <title>Subtraction</title>

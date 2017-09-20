@@ -1,0 +1,16 @@
+---
+title: Math
+author: Andrew Mayo
+date: '2017-09-20'
+slug: math
+categories: [Mathematics]
+tags: [addition]
+---
+
+Lets do some addition:
+```{r}
+x <- 2
+y <- 3
+x + 7
+```
+

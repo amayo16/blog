@@ -1,0 +1,19 @@
+---
+title: Subtraction
+author: Andrew Mayo
+date: '2017-09-20'
+slug: subtraction
+categories:
+  - Mathematics
+tags:
+  - subtraction
+image: "img/portfolio/night-king.jpg"
+---
+
+Let's do subtraction:
+```{r}
+x <- 3
+y <- 4
+x - y
+```
+
